@@ -1,0 +1,289 @@
+.load-more1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 150%;
+}
+.load-more {
+    position: absolute;
+    top: 859px;
+    left: 520px;
+    width: 105px;
+    height: 27px;
+    color: #ff4b32;
+}
+.imae-icon {
+    position: absolute;
+    top: 554px;
+    left: 784px;
+    width: 362px;
+    height: 230px;
+    object-fit: cover;
+}
+.image-icon {
+    position: absolute;
+    top: 554px;
+    left: 392px;
+    width: 362px;
+    height: 230px;
+    object-fit: cover;
+}
+.image-icon1 {
+    position: absolute;
+    top: 554px;
+    left: 0px;
+    width: 362px;
+    height: 230px;
+    object-fit: cover;
+}
+.image-icon2 {
+    position: absolute;
+    top: 194px;
+    left: 784px;
+    width: 362px;
+    height: 330px;
+    object-fit: cover;
+}
+.image-icon3 {
+    position: absolute;
+    top: 194px;
+    left: 392px;
+    width: 362px;
+    height: 330px;
+    object-fit: cover;
+}
+.image-icon4 {
+    position: absolute;
+    top: 194px;
+    left: 0px;
+    width: 362px;
+    height: 330px;
+    object-fit: cover;
+}
+.the-coffee-shop {
+    position: absolute;
+    top: 76px;
+    left: 268px;
+    line-height: 160%;
+    display: inline-block;
+    width: 609px;
+    opacity: 0.7;
+}
+.our-gallery1 {
+    position: absolute;
+    top: 0px;
+    left: 455px;
+    font-size: 43px;
+    line-height: 130%;
+    font-weight: 600;
+    font-family: 'Josefin Sans';
+}
+.our-gallery {
+    position: absolute;
+    top: 1017px;
+    left: 149px;
+    width: 1146px;
+    height: 886px;
+}
+.coffee-thats-always {
+    position: absolute;
+    top: 396px;
+    left: 3.5px;
+    line-height: 160%;
+    font-family: 'Open Sans';
+    display: inline-block;
+    width: 225px;
+    opacity: 0.6;
+}
+.indonesian-coffe-beans1 {
+    position: absolute;
+    top: 326px;
+    left: 0px;
+    font-size: 32px;
+    line-height: 130%;
+    font-weight: 600;
+    display: inline-block;
+    width: 298.5px;
+}
+.b {
+    position: absolute;
+    top: 0px;
+    left: 16.25px;
+    line-height: 150%;
+    display: inline-block;
+    width: 59px;
+}
+.b1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 150%;
+    display: inline-block;
+    color: #000;
+    width: 12.3px;
+}
+.price {
+    position: absolute;
+    top: 293px;
+    left: 1.75px;
+    width: 75.2px;
+    height: 36px;
+    font-size: 24px;
+    color: #0c0d0c;
+}
+.image-icon5 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 319px;
+    height: 251px;
+    object-fit: cover;
+}
+.indonesian-coffe-beans {
+    position: absolute;
+    top: 201px;
+    left: 830px;
+    width: 319px;
+    height: 474px;
+}
+.coffee-thats-always1 {
+    position: absolute;
+    top: 403px;
+    left: 3px;
+    line-height: 160%;
+    font-family: 'Open Sans';
+    display: inline-block;
+    width: 257px;
+    opacity: 0.6;
+}
+.vietnam-coffe-beans1 {
+    position: absolute;
+    top: 346px;
+    left: 0px;
+    font-size: 32px;
+    line-height: 130%;
+    font-weight: 600;
+}
+.b2 {
+    position: absolute;
+    top: 0px;
+    left: 19px;
+    line-height: 150%;
+}
+.b3 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 150%;
+    color: #000;
+}
+.price1 {
+    position: absolute;
+    top: 300px;
+    left: 2px;
+    width: 63px;
+    height: 36px;
+    font-size: 24px;
+    color: #0c0d0c;
+}
+.image-icon6 {
+    position: absolute;
+    top: 0px;
+    left: 3px;
+    width: 303px;
+    height: 265px;
+    object-fit: cover;
+}
+.vietnam-coffe-beans {
+    position: absolute;
+    top: 194px;
+    left: 392px;
+    width: 306px;
+    height: 455px;
+}
+.coffee-thats-always2 {
+    position: absolute;
+    top: 403px;
+    left: 2px;
+    line-height: 160%;
+    font-family: 'Open Sans';
+    display: inline-block;
+    width: 257px;
+    opacity: 0.6;
+}
+.price2 {
+    position: absolute;
+    top: 300px;
+    left: 2px;
+    width: 62px;
+    height: 36px;
+    font-size: 24px;
+    color: #0c0d0c;
+}
+.imge-icon {
+    position: absolute;
+    top: 0px;
+    left: 3px;
+    width: 300px;
+    height: 265px;
+    object-fit: cover;
+}
+.brazilian-coffe-beans {
+    position: absolute;
+    top: 194px;
+    left: 0px;
+    width: 310px;
+    height: 455px;
+}
+.a-coffee-shop {
+    position: absolute;
+    top: 76px;
+    left: 2px;
+    line-height: 160%;
+    display: inline-block;
+    width: 506px;
+    opacity: 0.7;
+}
+.that-is-our {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 43px;
+    letter-spacing: 0.15em;
+    line-height: 130%;
+    font-weight: 600;
+    font-family: 'Josefin Sans';
+    display: inline-block;
+    width: 590px;
+}
+.our-best-offer1 {
+    position: absolute;
+    top: 0px;
+    left: 1px;
+    width: 590px;
+    height: 134px;
+    font-size: 18px;
+    font-family: 'Open Sans';
+}
+.our-best-offer {
+    position: absolute;
+    top: 141px;
+    left: 146px;
+    width: 1149px;
+    height: 675px;
+    text-align: left;
+    font-size: 16px;
+    font-family: 'Josefin Sans';
+}
+.our-gallery-parent {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 2045px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 18px;
+    color: #000;
+    font-family: 'Open Sans';
+}
+
